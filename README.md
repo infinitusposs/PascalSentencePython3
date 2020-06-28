@@ -23,5 +23,5 @@ requests 2.6.0
 
 ## Usage
 
-As described in rupy's program
+As described in rupy's program.
 
