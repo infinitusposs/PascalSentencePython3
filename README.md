@@ -1,5 +1,5 @@
 # The original version: Visit https://github.com/rupy/PascalSentenceDataset
-I modified it to supoort Python 3.
+I modified it to support Python 3.
 ## PascalSentenceDataset
 
 This program is utility to download pascal sentence dataset. 
